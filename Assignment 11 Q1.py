@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 20 16:43:57 2022
 
-@author: LENOVO
+@author: SANJUSHA
 """
 
 # pip install textblob
